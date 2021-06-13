@@ -1,0 +1,2761 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v7.0.29,
+* Autoprefixer: v9.7.6
+* Browsers: last 4 version
+*/
+
+/*Start Only For Notification Part*/
+@media (max-width: 1100px) {
+    #header-top .header-bottom .cart-part .popover-cart-part {
+        width: 250px;
+        left: 280px;
+    }
+
+    #header-top .header-bottom .fa-shopping-cart {
+
+        padding-right: 70px;
+    }
+
+    #header-top .header-bottom .cart-part span {
+        margin-left: -75px;
+    }
+}
+
+/*End Only For Notification Part*/
+
+
+
+@media (max-width: 991px) {
+
+    /*Start Index Page*/
+    #header-top .header-right .item a {
+        font-size: 14px;
+    }
+
+    #header-top .header-top-left p a {
+        padding-right: 6px;
+    }
+
+    #header-top p {
+        margin: 7px 5px 0px 5px;
+        font-size: 14px;
+    }
+
+    #header-top .header-bottom .fa-shopping-cart {
+        padding-left: 5px;
+        padding-right: 60px;
+    }
+
+    #header-top .header-bottom .cart-part span {
+        margin-left: -65px;
+    }
+
+    #header-top .header-right {
+        float: left !important;
+    }
+
+    #header-top .header-right .first-part .popover-part {
+        left: -160px;
+        width: 300px;
+    }
+
+    #header-top .header-bottom .cart-part .popover-cart-part {
+        width: 265px;
+        left: 170px;
+    }
+
+    #hours-part .item-1 {
+        margin: 0px 0px 10px 0px;
+    }
+
+    #hours-part .item-2 {
+        margin: 0px 0px 10px 0px;
+    }
+
+    #shopee-mall .right ul li {
+        width: 179px;
+    }
+
+    #shopee-mall .top .left .right {
+        margin-left: 25px;
+        margin-top: 5px;
+    }
+
+    /*End Index Page*/
+
+    /*Start bank Card Page*/
+    #profile .img-part .right {
+        padding-left: 5px !important;
+    }
+
+    /*End bank Card Page*/
+
+    /*Start Brand Gift Card Page*/
+    #gift-cards .gift-title h4 {
+        font-size: 25px;
+    }
+
+    #slider-one img {
+        height: 90px;
+    }
+
+    #slider-one {
+        padding: 145px 0px 20px 0px;
+    }
+
+    /*End Brand Gift Card Page*/
+
+    /*Start Category Page*/
+    #category .right-part {
+        width: 100%;
+        position: relative;
+    }
+
+    #category .left-part {
+        position: absolute;
+    }
+
+    #category .sidebar.show {
+        left: 0px;
+        z-index: 99;
+    }
+
+    #category .btn {
+        display: block;
+        left: 0px;
+        padding: 0px;
+        padding-top: 0px;
+        height: 30px;
+        width: 30px;
+        position: relative;
+        z-index: 99;
+    }
+
+    #category .btn.click {
+        left: 0px;
+        z-index: 999;
+    }
+
+    #category .btn span {
+        color: white;
+        font-size: 20px;
+        line-height: 30px;
+    }
+
+    #category .sidebar {
+        position: absolute;
+        width: 220px;
+        height: auto;
+        left: -250px;
+    }
+
+    #category .button-part .left .all-button ul li a {
+        margin: 5px 5px;
+        padding: 6px 15px;
+        font-weight: 500;
+    }
+
+    #category .button-part {
+        margin: 40px 0px 10px 0px;
+    }
+
+    /*End Category Page*/
+
+    /*Start Daily Discover All*/
+    #discover-top {
+        margin: 120px 0px 0px 0px;
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
+    #discover-top h1 {
+        padding: 5px 15px;
+        font-size: 25px;
+    }
+
+    #discover {
+        padding-bottom: 30px;
+    }
+
+    /*End Daily Discover All*/
+
+    /*Start Deshi-Shop Page*/
+    #discover .slider-top p {
+        font-size: 20px;
+    }
+
+    #discover .slider-top {
+        padding: 2px 0px;
+    }
+
+    /*End Deshi-Shop Page*/
+
+    /*Start Find Similar Page*/
+    #similar-top .right h6 {
+        font-size: 15px;
+    }
+
+    #similar-top .right .five {
+        font-size: 18px;
+    }
+
+    #similar-top .right .link a {
+        padding: 7px 10px;
+        font-size: 14px;
+    }
+
+    /*End Find Similar Page*/
+
+    /*Start Hotel and Travel*/
+    #slider-one .hotel img {
+        height: 200px;
+    }
+
+    /*End Hotel and Travel*/
+
+    /*Start Digital invalid*/
+    #profile .right-part .voucher .voucher-link-item ul li {
+        width: auto;
+        margin: auto 13px;
+        -webkit-box-pack: justify;
+            -ms-flex-pack: justify;
+                justify-content: space-between;
+    }
+
+    /*End Digital invalid*/
+    #profile .right-part .voucher .voucher-item .same {
+
+        max-width: 100%;
+    }
+
+    #profile .right-part .left-part-2 p {
+        text-align: center;
+    }
+
+    #profile .right-part .left-part-2 {
+        border-left: none;
+    }
+
+    #profile .right-part .set-btn {
+        width: 30%;
+        font-size: 14px;
+        padding: 0px;
+    }
+
+     /*Start Purchase History*/
+    #profile .right-part table th{
+        font-size: 12px;
+    }
+    #profile .right-part table td{
+        font-size: 12px;
+    }
+    #profile .right-part table td i {
+        color: rgb(255, 255, 255);
+        padding: 5px;
+    }
+
+     /*End Purchase History*/
+
+     /*Start Contact page*/
+     #contact .map{
+         -webkit-box-ordinal-group: 3;
+             -ms-flex-order: 2;
+                 order: 2;
+     }
+     #contact .address{
+         -webkit-box-ordinal-group: 2;
+             -ms-flex-order: 1;
+                 order: 1;
+     }
+     /*End Contact page*/
+
+    /*Start Blog- Details Page*/
+    #blog-details .top h6 {
+        font-size: 25px;
+        padding-bottom: 15px;
+    }
+    #blog-details .left-main .title-part h6 {
+        font-size: 20px;
+    }
+    /*End Blog- Details Page*/
+
+    /*******************************************************************************************************************************************************/
+
+    /*Start BUY NOW Page*/
+    #part1 .last-one {
+        margin-left: 292px;
+    }
+
+    /*End BUY NOW Page*/
+
+    /*Start CartDetails Page*/
+
+    #Cart .purchase-info .quantity {
+        margin-right: -39px;
+    }
+
+    /*End CartDetails Page*/
+    /*Start HelpCenter Page*/
+    #question .op2 {
+        width: 112%;
+        margin-top: 48px;
+        margin-left: -56px;
+    }
+
+    /*End  HelpCenter Page*/
+
+    /*Start How to Shop Page*/
+    #question .oy2 {
+        width: 217%;
+        margin-left: 61px;
+    }
+
+    #question .oy {
+        width: 205%;
+    }
+
+    #question .op2 {
+        width: 112%;
+        margin-top: 48px;
+        margin-left: -62px;
+    }
+    #question .basic hr {
+        margin-top: 25px;
+    }
+    #question .side1 ul li {
+        margin-top: 10px;
+    }
+    /*End How to Shop Page*/
+
+    /*Start login_with_sms.html*/
+    #SMS button.f span {
+        margin-left: 3px;
+    }
+
+    #SMS .button ul li {
+        width: 32%;
+    }
+
+    #SMS .level .line span::before {
+        width: 96px;
+    }
+
+    #SMS .level .line span::after {
+        width: 96px;
+    }
+    #SMS form {
+        width: 100%;
+        margin-top: 60px;
+        padding: 20px;
+    }
+    #SMS {
+        padding-bottom: 30px;
+    }
+    #SMS .banner img {
+        height: 360px;
+        margin-top: 60px;
+        margin-left: 0px;
+        width: 89%;
+    }
+    /*End login_with_sms.html*/
+
+
+    /*Start login*/
+    #main .button ul li {
+        width: 38%;
+    }
+
+    #main .level .line span::before {
+        width: 95px;
+    }
+
+    #main .level .line span::after {
+        width: 95px;
+    }
+    #main form {
+        width: 100%;
+        margin-top: 60px;
+        padding: 20px;
+    }
+    #main {
+        padding-bottom: 30px;
+    }
+    #main .banner img {
+        height: 360px;
+        margin-top: 60px;
+        margin-left: 0px;
+        width: 89%;
+    }
+    /*End login*/
+
+
+    /*Start main-voucher*/
+    #mixup .mix {
+
+        width: 29%;
+    }
+
+    /*End main-voucher*/
+
+    /*Start Shocking Sale*/
+    #shocking1 .banner-up {
+        padding-left: 188px;
+    }
+    #shocking1 .banner-up::before {
+        left: 158px;
+    }
+
+    /*End Shocking Sale*/
+
+    #question {
+        margin-top: 40px;
+    }
+    #mart-slider .slider-height .carousel img {
+        height: 260px;
+    }
+    #after-campaign .live-image {
+        color: white;
+        font-size: 20px;
+    }
+    #after-campaign .live {
+        margin-top: 20px;
+        padding: 20px 0px 15px 20px;
+    }
+
+    /*Start Blog Section*/
+
+    #blog-at .small-left {
+        width: 45%;
+    }
+    #blog-at .follow-img-title {
+        margin-left: 16px;
+    }
+    
+    #blog-at .blog-at1 {
+        margin: 0 auto;
+        width: 100%;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -ms-flex-pack: distribute;
+            justify-content: space-around;
+    }
+    #blog-at .blog1 {
+        width: 120%;
+    }
+    #blog-at .blog1-header h4 {
+        text-align: center;
+    }
+    /*End Blog Section*/
+
+    /*Start About Us*/
+    #about-us .abu::after {
+        height: 722px;
+    }
+    #about-us .side-category {
+        padding-left: 73px;
+    }
+    /*End About Us*/
+
+    /*Start proceed to pay*/
+    #proceed .right-part .body .top .modal-content {
+        width: 145%;
+    }
+    #proceed .right-part .body .address .bottom-part .input-name input {
+        width: 90%;
+    }
+    #proceed .right-part .body .address .bottom-part .input-phone input {
+        width: 90%;
+    }
+    #proceed .right-part .body .address .bottom-part .del-form {
+        
+        padding: 10px 10px 0px 10px;
+       
+    }
+    #proceed .right-part .body .top .bottom .modal-content {
+        
+        width: 145%;
+    }
+    /*End Proceed to pay*/
+
+    /*Start Delivery Info*/
+#delivery .del-right {
+    margin-bottom: 30px;
+}
+
+/*End Delivery Info*/
+
+/*Start Payment Method*/
+#payment-method .order-summary {
+    margin-top: -98px;
+    margin-bottom: 30px;
+}
+#payment-method .mod-content p {
+    line-height: 24px;
+}
+#payment-method #automation-payment-item-01 .f-cart input {
+    width: 77%;
+}
+#payment-method #automation-payment-item-01 .f-cart1 {
+    width: 36%;
+}
+#payment-method #automation-payment-item-01 .f-cart2 {
+    width: 34%;
+}
+#payment-method .c-cart img {
+    margin-left: 14px;
+}
+#payment-method .c-cart-1 img {
+    width: 7%;
+}
+/*End Payment Method*/
+  
+
+}
+
+/******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+@media (max-width: 767px) {
+
+    /*Start Index Page*/
+    #header-top .item {
+        padding: 0px;
+    }
+
+    #header-top ul li i {
+        width: 20px;
+        height: 20px;
+        margin: 2px;
+    }
+
+    #header-top nav .collapse .nav-item {
+        width: 130px;
+        height: 30px;
+    }
+
+    #header-top .navbar-expand .navbar-nav .nav-link {
+        font-size: 12px;
+    }
+
+    #header-top .header-top-left ul li a {
+        display: inline-block;
+    }
+
+    #header-top .header-top-left ul li i {
+        font-size: 13px;
+    }
+
+    #header-top p {
+        margin: 4px 4px 0px 4px;
+        font-size: 13px;
+    }
+
+    #header-top .header-top-left p a::after {
+        top: 0px;
+    }
+
+    #header-top .header-right .item {
+        margin: 1px 6px 0px 2px;
+    }
+
+    #header-top .header-right {
+        float: left !important;
+    }
+
+    #header-top .header-right .item a {
+        font-size: 13px;
+    }
+
+    #header-top .header-bottom .cart-part .popover-cart-part {
+        width: 250px;
+        left: -25px;
+    }
+
+    #header-top .input-group-text {
+        height: 30px;
+        font-size: 13px;
+    }
+
+    #header-top .custom-select {
+        height: 30px;
+        padding: 3px;
+        font-size: 13px;
+    }
+
+    #header-top .input-group>.form-control:not(:last-child) {
+        height: 30px;
+    }
+
+    #header-top .header-bottom .fa-shopping-cart {
+        font-size: 25px;
+    }
+
+    #header-slider {
+        margin-top: 100px;
+    }
+
+    #header-slider .slider-height .carousel img {
+        height: 260px;
+    }
+
+    #hours-part .cart-item .card {
+        max-width: 32%;
+        margin: 0 auto;
+    }
+
+    #shocking .carousel ul li {
+        width: 170px;
+    }
+
+    #shocking .carousel .image-part img {
+        height: 150px;
+    }
+
+    #shocking-bottom-banner img {
+        padding-bottom: 10px;
+    }
+
+    #shopee-mall .top .left p,
+    #shopee-mall .top .left a {
+        display: inline-block;
+        padding: 15px 5px;
+    }
+
+    #shopee-mall .top .left p {
+        font-size: 14px;
+    }
+
+    #shopee-mall .top .right a {
+        margin: 20px 20px 0px 0px;
+    }
+
+    #shopee-mall .right ul li {
+        width: 130px;
+        height: 200px;
+    }
+
+    #shopee-mall .right .image-part img {
+        width: 100px;
+        height: 100px;
+    }
+
+    #shopee-mall .right .title-part p {
+        font-size: 13px;
+    }
+
+    #shopee-mall .right .offer-part p {
+        margin-bottom: 5px;
+        font-size: 14px;
+    }
+
+    #trending-search ul li {
+        width: 138px;
+    }
+
+    #discover {
+        padding-bottom: 30px;
+    }
+
+    #discover ul li {
+        width: 170px;
+    }
+
+    #discover .img-part img {
+        height: 160px;
+    }
+
+    #discover .read {
+        width: 53%;
+    }
+
+    #footer-top .title {
+        margin-top: 30px;
+    }
+
+    #bottom-to-top {
+        font-size: 20px;
+    }
+
+    /*End Index Page*/
+
+    /*Start bank Card Page*/
+    
+    #profile .left {
+        padding-bottom: 15px;
+    }
+
+    #profile .left .img-part {
+        margin-bottom: 0px;
+    }
+
+    #profile .right-part .body p {
+        font-size: 14px;
+    }
+
+    /*End bank Card Page*/
+
+    /*Start Brand Gift Card Page*/
+    #slider-one {
+        padding: 125px 0px 20px 0px;
+    }
+
+    #slider-one img {
+        height: 80px;
+    }
+
+    #gift-cards .gift-title h4 {
+        font-size: 20px;
+    }
+
+    #gift-cards .gift-title {
+        padding: 4px 0px;
+        margin: 0px 0px 5px 0px;
+    }
+
+    #gift-cards .gift-item ul li {
+        width: 170px;
+    }
+
+    #gift-cards .gift-item img {
+        height: 110px;
+    }
+
+    #gift-cards .gift-item .gift-body p {
+        font-size: 12px;
+    }
+
+    /*End Brand Gift Card Page*/
+
+
+    /*Start Category Page*/
+    #category .button-part .left .all-button ul li {
+        margin-bottom: 15px;
+    }
+
+    #category .button-part {
+        padding: 20px 10px 5px 15px;
+        margin: 10px 0px 10px 0px;
+    }
+
+    #category .imgage-part ul li {
+        width: 170px;
+    }
+
+    #category .imgage-part img {
+        width: 100%;
+        height: 145px;
+    }
+
+    #category .imgage-part .title-part p {
+        font-size: 12px;
+    }
+
+    #category .imgage-part .bottom-part .price p {
+        font-size: 12px;
+    }
+
+    #category .imgage-part .bottom-part .price span {
+        font-size: 15px;
+    }
+
+    #category #category-menu h6 {
+        font-size: 17px;
+    }
+
+    #category .range-part button {
+        width: 90%;
+    }
+
+    #category .rating-part p {
+        font-size: 14px;
+    }
+
+    #category nav ul {
+        width: 97%;
+    }
+
+    #category #category-menu ul ul li a {
+        padding-left: 10px;
+        font-size: 14px;
+    }
+
+    .page-item:first-child .page-link {
+        font-size: 13px;
+    }
+
+    #category .next-prev ul li a {
+        font-size: 13px;
+    }
+
+    .page-item.active .page-link {
+        font-size: 13px;
+    }
+
+    #category {
+        margin-bottom: 0px;
+        padding-bottom: 20px;
+    }
+
+    /*End Category Page*/
+    /*Start Discover All Page*/
+    #discover-top {
+        margin: 100px 0px 0px 0px;
+        padding-bottom: 25px;
+    }
+
+    #discover .next-prev .page-link {
+        font-size: 13px;
+    }
+
+    /*End Discover All Page*/
+
+    /*Start Digital Sheba*/
+    #digital-sheba {
+        padding: 130px 0px 20px 0px;
+    }
+
+    #digital-sheba img {
+        height: 80px;
+    }
+
+    /*End Digital Sheba*/
+
+    /*Start Find Similar*/
+    #similar-top .bottom p {
+        text-align: center;
+    }
+
+    #similar-top {
+        margin-top: 85px;
+        padding: 20px 0px;
+    }
+
+    /*End Find Similar*/
+
+    /*Start Hotel And Travel Page*/
+    #slider-one .hotel img {
+        height: 150px;
+    }
+
+    /*Start Hotel And Travel Page*/
+
+    /*Start Notification Promotion*/
+    #profile {
+        margin-top: 105px;
+        padding-bottom: 20px;
+    }
+
+    #profile .notification-purchase .item .link {
+        width: 20%;
+    }
+
+    #profile .notification-purchase .body-item .image img {
+        width: 80px;
+        height: 80px;
+        margin-right: 10px;
+    }
+
+    #profile .notification-purchase .body-item .text p {
+        font-size: 12px;
+    }
+
+    /*End Notification Promotion*/
+
+    /*Start Ovendar Digital invalid*/
+    #profile .right-part .voucher .form-part {
+        padding: 25px 0px 7px 0px;
+        margin: 15px 0px 0px 0px;
+        background: #F7F7F7;
+    }
+
+    #profile .right-part .voucher .left h6 {
+        font-size: 18px;
+    }
+
+    /*End Ovendar Digital invalid*/
+
+    #profile .right-part .voucher .voucher-item .same-one {
+        padding-left: 0px;
+        max-width: 30%;
+        display: inline-block;
+    }
+
+    #profile .right-part .voucher .voucher-item .same-two {
+        max-width: 70%;
+        display: inline-block;
+    }
+
+
+    /***********************************************************************************************************/
+    /*Start BUY NOW Page*/
+
+    #part1 .quantity {
+        margin-right: -70px;
+    }
+
+    #part1 .delete {
+        margin-right: 33px;
+    }
+
+    #part1 .last-one {
+        margin-left: 227px;
+        margin-top: 25px;
+    }
+
+    #platform .to {
+        margin-right: -164px;
+    }
+
+    #platform .to button {
+        width: 155px;
+    }
+
+    #platform .learned {
+        width: 85%;
+    }
+
+    #platform .balance1 {
+        margin-right: -275px;
+    }
+    #platform .modal-content {
+        width: 77%;
+    }
+    #platform button#apply {
+        margin-top: 108px;
+        margin-left: -144px;
+        width: 139%;
+        color: white;
+    }
+    #platform input#addvoucher {
+        margin-left: -13px;
+        margin-top: 57px;
+        width: 145%;
+    }
+    #platform label.mt-2 {
+        margin-left: 123px;
+        width: 191%;
+        padding-top: 15px;
+    }
+    #platform .suff {
+        width: 44%;
+        padding-top: 33px;
+    }
+    #part1 .non {
+        padding-left: 48px;
+        padding-top: 19px;
+    }
+    #part1 .cell-variation {
+        padding-left: 79px;
+        padding-top: 51px;
+    }
+
+    #free .product-header {
+        padding-bottom: 105px;
+    }
+
+    #preferred .preferred-main {
+        padding-bottom: 42px;
+    }
+    
+    /*End BUY NOW Page*/
+
+    /*Start CartDetails Page*/
+
+    #rate .cor {
+        margin-top: 31px;
+        padding-left: 41px;
+        padding-top: 10px;
+    }
+
+    #after .activ {
+        margin-right: -298px;
+    }
+
+    #after .upper p {
+        padding-right: 10px;
+    }
+
+    #after .down p {
+        padding-right: 7px;
+    }
+
+    #rate .iop button {
+        width: 22%;
+    }
+    #after .after2 {
+        margin-top: 20px;
+        margin-left: 33px;
+        width: 100%;
+    }
+    /*End CartDetails Page*/
+    /*Start  HelpCenter Page*/
+    #question .op2 {
+        width: 150%;
+        margin-top: 48px;
+        margin-left: -26px;
+    }
+
+    #question .cu {
+        width: 251px;
+    }
+
+    #question .op {
+        border: 1px solid #d3d3d3;
+        min-height: 50px;
+        width: 94%;
+    }
+
+    /*End  HelpCenter Page*/
+
+    /*Start Shocking Sale*/
+    #shocking1 .banner-up {
+        padding-left: 116px;
+        
+    }
+    #shocking1 .banner-up::before {
+        left: 65px;
+    }
+    #shocking1 .banner-up i {
+        margin-left: -168px;
+        margin-top: 37px;
+    }
+    #shocking1 span.end {
+        margin-top: 34px;
+        margin-left: 5px;
+    }
+    #shocking1 .count {
+        margin-top: 32px;
+    }
+
+    /*End Shocking Sale*/
+
+
+
+
+    /*Start How to Shop Page*/
+    #question .oy2 {
+        width: 357%;
+        margin-left: 63px;
+    }
+
+    #question .oy {
+        width: 368%;
+    }
+
+    #question .op2 {
+        width: 152%;
+        margin-top: 48px;
+        margin-left: -4px;
+    }
+
+    #question .op {
+        width: 111%;
+    }
+    #question .hf {
+        margin-bottom: 20px;
+    }
+    #question .hf h3 {
+        font-size: 20px;
+    }
+    #question .hot-question .tube iframe {
+        height: 200px;
+    }
+    #question .ip2 img {
+        height: 500px;
+    }
+    #question .ip img {
+        height: 500px;
+    }
+    #question .artp {
+        margin-top: 20px;
+        margin-bottom: 10px;
+    }
+    #question .contact {
+        margin-top: 25px;
+    }
+    /*End How to Shop Page*/
+
+
+    /*Start login_with_sms.html*/
+    #SMS .button ul li {
+        width: 26%;
+        margin-right: -6px;
+        margin-left: 16px;
+    }
+
+   
+
+    #SMS .banner img {
+        height: 347px;
+        margin: 32px 0px 0px 50px;
+        width: 80%;
+    }
+    #SMS form {
+        width: 88%;
+        padding: 20px;
+        margin: 0 auto;
+    }
+
+    /*End login_with_sms.html*/
+
+
+    /*Start login*/
+    #main .button ul li {
+        width: 23%;
+    }
+    #main .banner img {
+        height: 347px;
+        margin: 32px 0px 0px 50px;
+        width: 80%;
+    }
+    #main form {
+        width: 100%;
+        padding: 10px;
+        margin: 0 auto;
+    }
+
+    /*End login*/
+
+
+    /*Start main-milliondollar*/
+    #mill-category .catt ul li {
+        width: 165px;
+    }
+    #mill-category .catt ul li img {
+        height: 155px;
+    }
+    /*End main-milliondollar*/
+
+
+    /*Start main-voucher*/
+    #mixup .mix {
+        width: 32%;
+    }
+    #mixup .mix img {
+        height: 180px;
+    }
+    
+
+    /*End main-voucher*/
+
+    /*Start milliondollar*/
+    #after-campaign .live-list ul li {
+        width: 160px;
+        margin: 5px;
+        margin-top: 20px;
+        border-radius: 5px;
+    }
+
+    
+    /*Start See All*/
+    #after-campaign {
+        padding-bottom: 30px;
+        padding-top: 0px;
+    }
+    #after-campaign .live-list ul li img {
+        width: 100%;
+        height: 150px;
+        margin-top: 13px;
+    }
+    #after-campaign .link p {
+        font-size: 11px;
+        text-align: start;
+    }
+    #after-campaign .live-button button {
+        font-size: 10.5px;
+        padding: 4px 4px 4px 4px;
+        text-align: center;
+    }
+    #after-campaign .live-content {
+        padding: 11px 12px 15px 12px;
+    }
+    #after-campaign .live-image {
+        font-size: 20px;
+    }
+    #after-campaign .live-image h3{
+        font-size: 25px;
+    }
+    #after-campaign .live {
+        padding: 15px 0px 15px 20px;
+    }
+    /*End See All*/
+    
+
+    /*End milliondollar*/
+
+
+    /*Start Reset password*/
+
+    #main-reset .set {
+        width: 123%;
+    }
+
+    #main-reset {
+        margin-right: 145px;
+    }
+
+    /*End Reset password*/
+    #million {
+        padding-top: 120px;
+    }
+    .mi-banner img {
+        height: 200px;
+    }
+    #mill-category .mtitle {
+         padding: 10px 5px; 
+    }
+    #dollar-slider .sel-category2 h2 {
+        font-size: 25px;
+    }
+/*Start Help Center*/
+    #im h1 {
+        font-size: 35px;
+    }
+    #background .st {
+        height: 40px;
+    }
+    #background::before {
+        height: 250px;
+    }
+    #background {
+        height: 250px;
+    }
+    #question .hf h3 {
+        font-size: 25px;
+    }
+    #question .side1 ul li {
+        margin-top: 10px;
+    }
+    #question .list ul li {
+        font-size: 18px;
+    }
+/*End Help Center*/
+
+
+/*Start Blog*/
+#blog-at .blog1 {
+    width: 79%;
+    margin: 5px auto;
+}
+#blog-at .follow-img-title {
+    width: 71%;
+}
+#blog-at .blog1-header h4 {
+    text-align: center;
+}
+/*End Blog*/
+
+/*Start About Us*/
+#about-us .abu::after {
+    height: 387px;
+    right: -8px;
+}
+/*End About Us*/
+
+/*Start Proceed To Pay*/
+#proceed table thead th {
+    font-size: 13px;
+    width: 70px;
+}
+#proceed table tbody .one {
+    font-size: 13px;
+}
+#proceed table .product-item {
+    width: 50%;
+}
+#proceed table .product-details .right-part {
+    margin-left: 0px;
+}
+#proceed table .product-details img {
+    width: 140px;
+    height: 80px;
+    margin-top: 20px;
+}
+#proceed .right-part .body .top .modal-content {
+    width: 110%;
+    margin-left: -15px;
+}
+#proceed .right-part .body .address .bottom-part .input-name input {
+    width: 75%;
+}
+#proceed .right-part .body .address .bottom-part .input-phone input {
+    width: 75%;
+}
+#proceed .right-part .body .top .bottom .modal-content {
+    
+    width: 110%;
+}
+/*End Proceed To Pay*/
+
+
+/*Start Confirm Order*/
+
+#confirm-order .deliv td.pk-des {
+    font-size: 13px;
+    padding-left: 0px;
+}
+#confirm-order .payment-information.container {
+    width: 95%;
+}
+#confirm-order .deliv {
+    width: 89%;
+}
+#discover .just {
+    margin-left: 78px;
+}
+
+
+/*End Confirm Order*/
+
+/*Start Delivery Info*/
+#delivery .del-right {
+    margin-bottom: 30px;
+}
+#delivery .del-form {
+    padding: 33px 1px 33px 8px;
+}
+/*End Delivery Info*/
+
+/*Start Payment Method*/
+#payment-method {
+    margin-top: 107px;
+}
+#payment-method .select-payment {
+    margin-top: 47px;
+}
+
+
+/*End Payment Method*/
+
+
+}
+
+/*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+@media (max-width: 575px) {
+
+    /*Start Index Page*/
+    #header-top .header-right {
+        float: left !important;
+    }
+
+    #header-top .input-group>.form-control:not(:last-child) {
+        margin-left: 15px;
+    }
+
+    #header-top .header-bottom {
+        padding: 5px 0px 0px 0px;
+    }
+
+    #header-top .last {
+        width: 265px;
+        display: inline-block;
+        margin-left: 10px;
+    }
+
+    .nav-item .submenu {
+        left: 30%;
+        top: 18px;
+    }
+
+    #header-top nav .collapse .nav-item {
+        width: 100px;
+        height: 30px;
+    }
+
+    #header-top nav {
+        margin-left: 0px;
+        margin-right: 20px;
+    }
+
+    #header-top .last-1 {
+        width: 80px;
+        display: inline-block;
+        margin-left: 5px;
+    }
+
+    #header-top .header-right .first-part .popover-part {
+        left: 5px;
+        width: 270px;
+    }
+
+    #header-top .header-bottom .fa-shopping-cart {
+        padding-right: 35px;
+    }
+
+    #header-top .header-bottom .cart-part span {
+        margin-left: -40px;
+    }
+
+    #header-top .logo img {
+        width: 40%;
+        margin-bottom: 10px;
+        height: 34px;
+    }
+
+    #header-top .header-bottom .cart-part .popover-cart-part {
+        width: 230px;
+        left: 15px;
+    }
+
+    #header-slider .slider-height .carousel img {
+        height: 140px;
+    }
+
+    #header-slider .slider-height .right img {
+        height: 110px;
+    }
+
+    #header-slider {
+        padding: 10px 0px;
+        margin-top: 145px;
+    }
+
+    #hours-part .item-1 .card .card-body h5 {
+        margin: 5px 0px;
+        font-size: 17px;
+    }
+
+    #hours-part .item-2 .card .card-body h5 {
+        margin: 5px 0px;
+        font-size: 17px;
+    }
+
+    #hours-part .image-part img {
+        height: 80px;
+    }
+
+    #cart-part .cart-item ul li {
+        width: 90px;
+    }
+
+    #header-top .header-bottom .cart-part .popover-cart-part .item-part .title-part p {
+        padding: 4px 0px 4px 5px;
+    }
+
+    #header-top .header-bottom .cart-part .popover-cart-part .button a {
+        font-size: 13px;
+    }
+
+    #header-top nav .dropdown-item {
+        font-size: 14px;
+    }
+
+    #cart-bottom-banner img {
+        height: 60px;
+    }
+
+    #hours-part .cart-item .card {
+        max-width: 70%;
+        margin: 10px auto;
+    }
+
+    #hours-part .hours-text {
+        padding: 10px 0px 5px 0px;
+    }
+
+    #categories {
+        padding: 0px 0px;
+    }
+
+    #categories .cart-image ul li {
+        width: 140px;
+    }
+
+    #shocking .top {
+        padding-bottom: 15px;
+    }
+
+    #shocking .carousel .image-part img {
+        height: 100px;
+    }
+
+    #shocking .left-item h6 {
+        padding: 10px 5px 10px 0px;
+        font-size: 18px;
+    }
+
+    #shocking .count table {
+        margin-top: 7px;
+    }
+
+    #shocking .count .size_lg {
+        font-size: 15px;
+    }
+
+    #shocking .right-item a {
+        margin-top: 10px;
+    }
+
+    #shocking .carousel ul li {
+        width: 130px;
+        height: 190px;
+    }
+
+    #shocking .carousel .progress {
+        width: 125px;
+    }
+
+    #shocking-bottom-banner {
+        padding: 20px 0px 10px 0px;
+    }
+
+    #shocking .carousel ul li .offer p {
+        font-size: 12px;
+    }
+
+    #shocking .carousel ul li .offer p:last-child {
+        font-size: 12px;
+    }
+
+    #shocking .carousel ul li .offer {
+        width: 30px;
+        height: 35px;
+    }
+
+    #shopee-mall .top {
+        padding-bottom: 10px;
+    }
+
+    #shopee-mall .top .left p,
+    #shopee-mall .top .left a {
+        padding: 5px 5px 5px 5px;
+    }
+
+    #shopee-mall .top .left .right a {
+        font-size: 15px;
+    }
+
+    #shopee-mall .left img {
+        height: 270px;
+    }
+
+    #shopee-mall .left .owl-next {
+        top: 117px;
+        right: -10px;
+    }
+
+    #shopee-mall .left .owl-prev {
+        top: 117px;
+        left: -10px;
+    }
+
+    #top-products .carousel .item .img-left img {
+        height: 160px;
+    }
+
+    #top-products .owl-next {
+        top: 175px;
+        right: -10px;
+    }
+
+    #top-products .owl-prev {
+        top: 175px;
+        left: -10px;
+    }
+
+    #discover .top {
+        padding: 5px;
+    }
+
+    #discover .img-part img {
+        height: 120px;
+    }
+
+    #discover ul li {
+        width: 145px;
+    }
+
+    #discover .read {
+        padding: 3px 0px;
+        margin-top: 5px;
+    }
+
+    #footer-top .cen {
+        font-size: 13px;
+    }
+
+    #footer-top .copy {
+        height: 55px;
+    }
+
+    #footer-top .list ul li a {
+        font-size: 13px;
+    }
+
+    #bottom-to-top {
+        font-size: 20px;
+        right: 5px;
+
+        /*End Index Page*/
+    }
+
+    /*Start Bankcard page*/
+    #profile {
+        padding-bottom: 0px;
+    }
+
+    #profile .right-part {
+        padding: 20px 10px;
+    }
+
+    #profile .new-card h6 {
+        font-size: 14px;
+        margin-top: 10px;
+    }
+
+    #profile .right-part .btn-danger {
+        padding: 5px;
+    }
+    #profile .new-account .modal-content {
+        margin-top: 145px;
+    }
+
+    /*Start Purchase History*/
+    #profile .right-part table td{
+        font-size: 10px;
+        padding: 5px 0px;
+    }
+    #profile .right-part table th {
+        padding: 5px 0px;
+        vertical-align: bottom;
+        border-bottom: 0px solid #dee2e6;
+        font-size: 12px;
+    }
+    #profile .right-part table td i {
+        font-size: 8px;
+    }
+    /*End Purchase History*/
+
+    /*End Bankcard page*/
+
+    /*Start Brand Gift Card*/
+    #slider-one {
+        padding: 160px 0px 20px 0px;
+    }
+
+    #slider-one img {
+        height: 60px;
+    }
+
+    #gift-cards .gift-item ul li {
+        width: 165px;
+        margin-bottom: 10px;
+    }
+
+    #gift-cards .gift-item img {
+        height: 100px;
+    }
+
+    #gift-cards .gift-item .gift-footer {
+        padding: 0px 0px;
+    }
+
+    #gift-cards .gift-title h4 {
+        font-size: 18px;
+    }
+
+    /*End Brand Gift Card*/
+
+    /*Start Category Page*/
+    #category .button-part {
+        margin: 30px 0px 10px 0px;
+    }
+
+    #category .button-part .left .all-button ul li a {
+        margin: 5px 3px;
+        padding: 6px 10px;
+    }
+
+    #category .imgage-part ul li {
+        width: 160px;
+    }
+
+    #category .imgage-part img {
+        height: 135px;
+    }
+
+    /*End Category Page*/
+
+    /*Start Daily Discover All*/
+    #discover-top {
+        margin: 130px 0px 0px 0px;
+        padding-bottom: 20px;
+    }
+
+    #discover-top h1 {
+        font-size: 20px;
+    }
+
+    /*End Daily Discover All*/
+
+
+    /*Start Deshi-Shop Page*/
+    #discover .slider-top p {
+        font-size: 15px;
+    }
+
+    #discover .slider-top {
+        margin: 0px 0px 15px 0px;
+    }
+
+    /*End Deshi-Shop Page*/
+
+    /*Start  Digital Sheba*/
+    #digital-sheba {
+        padding: 160px 0px 15px 0px;
+    }
+
+    #digital-sheba img {
+        height: 60px;
+    }
+
+    #discover {
+        padding-bottom: 20px;
+    }
+
+    /*End Digital Sheba*/
+
+    /*Start Find Similar Page*/
+    #similar-top .main {
+        display: block;
+    }
+
+    #similar-top {
+        margin-top: 120px;
+    }
+
+    #similar-top .right {
+        margin-left: 0px;
+        padding: 10px 0px 10px 0px;
+    }
+
+    #similar-top .left {
+        position: relative;
+        display: inline-block;
+    }
+
+    #similar-top .bottom p {
+        padding-left: 0px;
+        text-align: start;
+    }
+
+    /*End Find Similar Page*/
+
+    /*Start Hotel And Travel Page*/
+    #slider-one .hotel img {
+        height: 100px;
+    }
+
+    /*Start Hotel And Travel Page*/
+
+
+    /*Start Notification Promotion*/
+    #profile .notification-purchase .top-text p {
+        text-align: center;
+        float: none;
+    }
+
+    #profile .notification-purchase .item .link {
+        width: 35%;
+    }
+
+    #profile .notification-purchase .body-item .image {
+        float: none;
+        text-align: center;
+        padding-bottom: 10px;
+    }
+
+    #profile .notification-purchase .body-item .text {
+        margin-left: 0px;
+    }
+
+    #profile .notification-purchase .body-item .text h6 {
+        text-align: center;
+    }
+
+    #profile {
+        margin-top: 135px;
+    }
+
+    /*End Notification Promotion*/
+
+    /*Start ovendar Coin*/
+    #profile .right-part .voucher .ovendar-coins .coin-image img {
+        width: 30px;
+        margin-right: 10px;
+    }
+
+    #profile .right-part .voucher .ovendar-coins .coin-middle p span {
+        font-size: 25px;
+        margin-right: 5px;
+    }
+
+    #profile .right-part .voucher .ovendar-coins .right {
+        float: left !important;
+        padding-left: 15%;
+    }
+
+    #profile .right-part .voucher .ovendar-coins .right a {
+        text-align: center;
+    }
+
+    /*End ovendar Coin*/
+
+    /*Start Ovendar Digital invalid*/
+    #profile .right-part .voucher .left h6 {
+        font-size: 15px;
+    }
+
+    #profile .right-part .voucher .right a {
+        font-size: 12px;
+    }
+
+    #profile .right-part .voucher .voucher-link-item ul li {
+        padding: 5px 0px;
+    }
+
+    #profile .right-part .voucher .voucher-sub-link {
+        margin-left: 5px;
+    }
+
+    #profile .right-part .voucher .voucher-sub-link a {
+        margin-right: 25px;
+    }
+
+    /*End Ovendar Digital invalid*/
+    #profile .right-part .voucher .voucher-item .shipping {
+        width: 135%;
+    }
+
+    #profile .right-part .voucher .voucher-item .same-two {
+        max-width: 70%;
+        display: inline-block;
+    }
+
+    #profile .right-part .voucher .voucher-item .shipping p {
+        font-size: 16px;
+    }
+
+    #profile .right-part .voucher .voucher-item .voucher-body h6 {
+        font-size: 14px;
+    }
+
+    #profile .right-part .set-btn {
+        width: 90%;
+        padding: 7px;
+        margin-left: 14px;
+    }
+
+    #profile .right-part .phn-button {
+        width: 90%;
+        padding: 7px;
+        margin-left: 14px;
+    }
+    #profile .modal-content {
+        margin-top: 148px;
+    }
+    #profile .modal-header {
+        padding: 0.5rem 1rem;
+    }
+    #profile .modal-footer {
+        padding: 0px;
+    }
+    
+    
+    /*End Profile Page*/
+
+    /*Start Slide Two Page*/
+    #slider-two {
+        padding: 159px 0px 0px 0px;
+        background: #F5F5F5;
+    }
+
+    /*End Slide Two Page*/
+
+    /*Start Contact Map*/
+    #contact .contact-top h4 {
+        font-size: 25px;
+        margin-bottom: 20px;
+    }
+    #contact .address h4 {
+        font-size: 22px;
+    }
+    #contact .address i {
+        padding: 5px;
+    }
+    #contact {
+        padding-top: 160px;
+    }
+    #contact .contact-map .map iframe {
+        height: 300px;
+        margin-bottom: 10px;
+    }
+      /*End Contact Map*/
+
+      /*Start Blog Details Page*/
+      #blog-details {
+        margin-top: 160px;
+    }
+    #blog-details .top h6 {
+        font-size: 20px;
+        padding-bottom: 10px;
+    }
+    #blog-details .left-main .title-part h6 {
+        font-size: 18px;
+    }
+    #blog-details .left-main {
+        margin-right: 0px; 
+        width: 90%;
+    }
+    #blog-details .follow-img-title {
+        width: 70%;
+        margin: 5px auto;
+    }
+    #blog-details #button {
+        text-align: center;
+    }
+    #blog-details .follow-button {
+        padding-bottom: 10px;
+    }
+    #blog-details .follow-image img {
+        width: 40%;
+        display: block;
+        margin: 0 auto;
+    }
+    #blog-details .comment h6 {
+        font-size: 19px;
+    }
+      /*End Blog Details Page*/
+/*Start Proceed to pay*/
+      #proceed table .product-details {
+        width: 152px;
+    }
+    #proceed .right-part .body .top .bottom .modal-content {
+        width: 100%;
+    }
+    #proceed table .product-details .right-part p {
+        font-size: 11px;
+    }
+    #proceed table .product-details img {
+        height: 50px;
+        margin-top: 36px;
+    }
+    #proceed .right-part .button {
+        padding: 4px 0px;
+    }
+    #proceed .right-part .body .top .modal-content {
+        width: 100%;
+        margin-left: 0px;
+    }
+    #proceed .right-part .modal-body{
+        padding: 0px;
+    }
+    #proceed .right-part .body .top .modal-title{
+        font-size: 17px;
+    }
+    #proceed .right-part .body .top .modal-content table td {
+        font-size: 10px;
+        padding: 0px;
+    }
+    #proceed .right-part .body .address .bottom-part .address1 {
+        margin-top: 25px;
+        width: 60%;
+    }
+    #proceed .right-part .body .address .bottom-part .address2 {
+        width: 100%;
+        margin-top: 28px;
+    }
+    #proceed .right-part .body .address .bottom-part .del-tag-content button {
+        width: 100%;
+        height: 35px;
+    }
+    /*End Proceed to pay*/
+    
+    /********************************************************************************************************************************************************/
+    /*Start BUY NOW Page*/
+    #part1 .quantity {
+        margin-right: 39px;
+        margin-top: -7px;
+    }
+
+    #part1 .last-one {
+        margin-left: 68px;
+        margin-top: 30px;
+    }
+
+    #part1 .delete {
+        margin-right: 59px;
+    }
+
+    #platform .plat {
+        margin-right: 60px;
+    }
+
+    #platform p.dol {
+        height: 21px;
+    }
+    #platform button#apply {
+        margin-top: 4px;
+        margin-left: 93px;
+        width: 36%;
+    }
+    #platform input#addvoucher {
+        margin-left: 22px;
+        margin-top: -10px;
+        width: 87%;
+    }
+    #platform label.mt-2 {
+        margin-left: 111px;
+        width: 191%;
+        padding-top: 15px;
+    }
+    #platform .modal-content {
+        width: 101%;
+        margin-top: 190px;
+    }
+	#platform .voucher-item .same-one {
+    padding-left: 0px;
+    width: 35%;
+}
+
+#platform .same-two {
+    width: 65%;
+    float: left;
+}
+    #platform .balance1 {
+        margin-right: -8px;
+    }
+
+    #platform .dolp {
+        width: 119px;
+    }
+
+    #platform .to {
+        margin-right: 84px;
+        margin-top: 25px;
+    }
+
+    #platform .balance3 {
+        margin-left: 0px;
+        padding-top: 10px;
+    }
+
+    #platform .balance1 button {
+        margin-right: -18px;
+    }
+
+    #platform .learned {
+        width: 100%;
+        margin-left: -15px;
+    }
+
+    #platform .in2 {
+        width: 136px;
+    }
+
+    #free .product-header {
+        padding-bottom: 184px;
+    }
+    #free .buy {
+        padding-bottom: 11px;
+        padding-left: 21px;
+        padding-right: 3px;
+    }
+    #part1 span.paragraph {
+        font-size: 11px;
+    }
+    #part1 .non {
+        text-align: center;
+        padding-left: 0px;
+    }
+    #part1 .find-image {
+        width: 51%;
+        margin: 0 auto;
+    }
+    #part1 .find-para {
+        width: 51%;
+        margin: 0 auto;
+    }
+    #platform .modal.show .modal-dialog {
+        margin-top: 155px;
+    }
+    #platform .modal-header {
+        padding: 0.5rem 1rem;
+    }
+    #platform .modal-footer {
+        padding: 4px;
+    }
+    /*End BUY NOW Page*/
+
+    /*Start CartDetails Page*/
+
+    #rate .iop button {
+        width: 44%;
+        margin-bottom: 10px;
+    }
+    
+   
+    #after .activ {
+        margin-right: 0px;
+    }
+    #after .upper p {
+        padding-right: 7px;
+        font-size: 12px;
+        line-height: 23px;
+    }
+    #after .upper span {
+        font-size: 13px;
+    }
+    #after .down span {
+        font-size: 13px;
+    }
+    #after .upper {
+        margin-left: -9px;
+    }
+    #rate .ml {
+        margin-left: -10px;
+    }
+    #rate .ml ul li {
+        margin-left: 0px;
+    }
+    #after .after2 {
+        margin-left: 3px;
+    }
+    #after .down {
+        margin-left: -12px;
+    }
+    #after .down p {
+        padding-right: 5px;
+        font-size: 12px;
+    }
+    #Cart .product-img {
+        height: 314px;
+    }
+	 #Cart .size ul li a {
+    padding: 6px 17px 6px 17px;
+    }
+    #Cart .purchase-info {
+    margin: 0px;
+}
+    #Cart .size ul li p {
+    margin-right: 10px;
+    }
+    #Cart .product-detail ul li p {
+    margin-right: 5px;
+    margin-left: -10px;
+    }
+    #Cart .product-detail .color ul li a {
+    padding: 6px 5px 6px 5px;
+    }
+    #descript .re {
+        margin-left: 0px;
+    }
+    #similar .i1 {
+        width: 80%;
+        margin: 0 auto;
+    }
+    #similar .i1 img {
+        height: 196px;
+    }
+    #Cart .purchase-info .quantity {
+        width: 73%;
+    }
+    /*End CartDetails Page*/
+
+    /*Start  HelpCenter Page*/
+    #question .op2 {
+        width: 66%;
+        margin-left: -3px;
+    }
+
+    #question .op {
+        border: 1px solid #d3d3d3;
+        min-height: 50px;
+        width: 66%;
+    }
+
+    #im h1 {
+        font-size: 52px;
+        font-weight: 600;
+    }
+
+    #question .hot-question {
+        padding-top: 20px;
+    }
+
+    #question .tube {
+        width: 100%;
+    }
+
+    #question iframe {
+        width: 100%;
+    }
+
+    /*End  HelpCenter Page*/
+
+    /*Start How to Shop Page*/
+    #question .oy {
+        width: 60%;
+        margin-left: 34px;
+    }
+
+    #question .oy2 {
+        width: 60%;
+        margin-left: 34px;
+        margin-top: 10px;
+    }
+
+    #question .op {
+        width: 64%;
+    }
+
+    #question .op2 {
+        width: 64%;
+    }
+
+    #question .button {
+        width: 47%;
+    }
+
+    #question .but2 {
+        width: 47%;
+        margin-left: 1px;
+        margin-top: 10px;
+    }
+
+    #im h1 {
+        font-size: 35px;
+    }
+    #question .hf h3 {
+        font-size: 20px;
+    }
+    /*End How to Shop Page*/
+
+
+    /*Start login_with_sms.html*/
+    #SMS .button ul li {
+        width: 30%;
+        margin-right: -6px;
+        margin-left: 8px;
+    }
+
+    #SMS .button ul li {
+        width: 38%;
+        margin-right: 22px;
+        margin-left: -3px;
+    }
+
+    #SMS .banner img {
+        height: 220px;
+        margin: 32px 0px 0px 50px;
+        width: 80%;
+    }
+
+    #SMS button.f span {
+        font-size: 12px;
+        font-weight: 600;
+    }
+
+    /*End login_with_sms.html*/
+
+/* Start Terms & Service*/
+#terms {
+    margin-top: 34px;
+    padding-bottom: 20px;
+}
+    #terms .contactdetail {
+          height: 34px;
+          margin-top: -29px;
+        }
+        #terms .ter {
+            padding-left: 12px;
+            margin-top: 30px;
+        }
+/* End Terms & Service*/
+    /*Start login*/
+    #sign-up .help a {
+        margin-top: 0px;
+       
+    }
+    #main .button ul li {
+        width: 47%;
+    }
+    #main .banner img {
+        height: 220px;
+        margin: 32px 0px 0px 50px;
+        width: 80%;
+    }
+
+    /*End login*/
+
+
+    /*Start main-milliondollar*/
+    #mill-category .catt ul li {
+        width: 155px;
+    }
+    #mill-category .mtitle {
+        padding: 9px 2px 12px 2px;
+    }
+    #mill-category button.atc {
+        width: 125px;
+    }
+
+    /*End main-milliondollar*/
+
+
+    /*Start main-voucher*/
+    #voucher-ban {
+        padding-top: 150px;
+    }
+    #voucher-ban .voucher-banner img {
+        height: 170px;
+    }
+    #mixup .mix {
+        width: 49%;
+    }
+
+    #mixup .mix img {
+        height: 240px;
+    }
+
+    /*End main-voucher*/
+
+    /*Start Most Popular Page*/
+    #mixup .mixbtn ul li.active::after {
+        width: 79px;
+        left: 0px;
+    }
+    #mixup .mixbtn ul li {
+        padding-left: 0px;
+        margin: 5px 10px;
+    }
+    #mixup .dropbtn {
+        padding-left: 10px;
+    }
+    #mixup .mix img {
+        height: 170px;
+    }
+    /*End Most Popular Page*/
+
+
+    /*Start Product Show*/
+    #product-s .product-single ul li {
+        width: 282px;
+    }
+
+    /*End Product Show*/
+
+    /*Start Million Dollar*/
+    #mart-slider .slider-height .carousel img {
+        width: 100%;
+        height: 225px;
+    }
+
+    /*End Million Dollar*/
+
+
+
+    /*Start Reset password*/
+    #main-reset .set {
+        width: 136%;
+    }
+
+    #main-reset {
+        margin-top: -66px;
+        padding-left: 25px;
+    }
+    #main-reset .body {
+        
+        padding: 0px 10px;
+    }
+    #main-reset .le {
+        width: 2rem;
+        height: 2.5rem;
+        fill: #ee4d2d;
+        padding-right: 6px;
+    }                                                           #main-reset .set {
+        width: 146%;
+    }                                                                                                              
+    
+    #main-reset .con {
+        font-size: 18px;
+        padding-right: 3rem;
+        padding-top: 8px;
+    }
+    /*End Reset password*/
+
+    /*Start See All Page*/
+    #after-campaign {
+        padding-bottom: 20px;
+        padding-top: 0px;
+    }
+    #after-campaign .live-list ul li img {
+        height: 140px;
+    }
+    #after-campaign .mixbtn ul li {
+        font-size: 13px;
+        width: 75px;
+        height: 30px;
+        padding: 5px;
+    }
+    #after-campaign .live-image h3 {
+        font-size: 22px;
+    }
+    #after-campaign .live-image {
+        font-size: 18px;
+    }
+    #after-campaign .live-list ul li {
+        width: 150px;
+    }
+    /*End See All Page*/
+
+
+    /*Start Shocking Sale Page*/
+    #shocking1 {
+        margin-top: 140px;
+    }
+    #shocking1 .banner-up {
+        padding-left: 94px;
+        margin-top: -14px;
+    }
+    #shocking1 .banner-up {
+    padding-left: 95px;
+    margin-top: 25px;
+}
+    #shocking1 .sale-image img {
+        width: 100%;
+        height: 175px;
+    }
+
+    #mixup .mixbtn {
+        margin-top: 0px;
+    }
+
+    /*End Shocking Sale Page*/
+    #million {
+        padding-top: 155px;
+    }
+    .mi-banner img {
+        height: 140px;
+    }
+    #dollar-slider .sel-category2 h2 {
+        font-size: 20px;
+    }
+    #mill-category .catt ul li img {
+        height: 140px;
+    }
+    #dollar-slider .sel-category h2 {
+        font-size: 20px;
+    }
+    /*Start Help Center*/
+    #im h1 {
+        font-size: 25px;
+    }
+    #background .st {
+        height: 35px;
+        width: 90%;
+    }
+    #background {
+        height: 200px;
+    }
+    #background::before {
+        height: 200px;
+    }
+    #question .s1 {
+        margin-bottom: 15px;
+    }
+    #question .list ul li {
+        font-size: 17px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    #question .hf {
+        margin-bottom: 15px;
+    }
+    #question .contact {
+        margin-top: 25px;
+    }
+    #question {
+        margin-top: 15px;
+    }
+    #sign-up .up {
+        font-size: 20px;
+        margin-left: 5px;
+    }
+/*End Help Center*/
+#mart-slider .slider-height .carousel img {
+    height: 147px;
+    margin-top: 36px;
+}
+#mart-slider {
+    padding-top: 120px;
+}
+#mart-slider .slider-height {
+    height: 210px;
+}
+#after-campaign .right a {
+    font-size: 15px;
+    margin-right: 10px;
+}
+#after-campaign .live {
+    padding: 13px 0px 13px 13px;
+}
+#after-campaign .live1 {
+    padding: 13px 0px 13px 13px;
+}
+#after-campaign .live2 {
+    padding: 13px 0px 13px 13px;
+}
+#product-s .product-single ul li {
+    width: 154px;
+}
+#product-s {
+    margin-top: 100px;
+}
+
+/*Start Blog*/
+#blog-at .blog1 {
+    width: 94%;
+    margin: 5px auto;
+}
+#blog-at .follow-img-title {
+    width: 88%;
+}
+#blog-at .follow-image {
+    width: 34%;
+    margin: 0 auto;
+}
+#blog-at .small-right {
+    margin-right: 8px;
+}
+#blog-at .small-left {
+    width: 50%;
+}
+#blog-at {
+    padding-bottom: 20px;
+    margin-top: 165px;
+}
+#blog-at .follow-button {
+    margin-top: 27px;
+}
+#blog-at .blog1-header {
+    margin-bottom: 12px;
+}
+/*End Blog*/
+
+/*Start About Us*/
+#about-us {
+    margin-top: 85px;
+}
+#about-us .abu::after {
+    height: 726px;
+}
+#about-us .side-category {
+    padding-left: 29px;
+    padding-bottom: 20px;
+}
+#about-us .abu {
+    padding-bottom: 0px;
+}
+#about-us .side-category ul li {
+    width: 89%;
+}
+#about-us .our-category {
+    margin-top: 25px;
+}
+/*End About Us*/
+
+/*Start Confirm Order*/
+
+#confirm-order .purchase-confirm {
+    width: 103%;
+}
+#confirm-order .confirm1 i {
+    font-size: 22px;
+}
+#confirm-order .confirm1 span {
+    font-size: 17px;
+}
+#confirm-order .deliv {
+    margin: 30px auto;
+}
+#confirm-order .deliv .item-img-container {
+    width: 91px;
+}
+#confirm-order .order-summary {
+    width: 79%;
+}
+#confirm-order .next-btn-large {
+    height: 45px;
+    padding: 0 17px;
+}
+/*End Confirm Order*/
+
+/*Start Delivery Info*/
+#delivery .del-form {
+    padding: 31px 1px 33px 22px;
+}
+#delivery .address1 {
+    width: 55%;
+}
+#delivery .address2 {
+    width: 99%;
+    padding-right: 19px;
+}
+#delivery table .product-item {
+    width: 81%;
+}
+#delivery table .product-details img {
+    width: 160px;
+}
+/*End Delivery Info*/
+
+/*Start payment Method*/
+#payment-method .pay-method-item {
+    margin-left: -11px;
+}
+#payment-method .pay-method-item .pay {
+    width: 102px;
+    height: 109px;
+}
+#payment-method .pay1 {
+    width: 102px;
+    height: 109px;
+}
+#payment-method .pay2 {
+    width: 102px;
+    height: 109px;
+}
+#payment-method .clearfix {
+    margin-left: 1px;
+}
+#payment-method .select-payment {
+    margin-top: 65px;
+}
+#payment-method .modal-content {
+    margin-top: 207px;
+}
+#payment-method .cash button {
+    width: 42%;
+}
+#payment-method .c-cart-1 {
+    width: 93%;
+}
+#payment-method .c-cart img {
+    width: 10%;
+}
+#payment-method #automation-payment-item-01 .f-cart input {
+    width: 88%;
+}
+#payment-method #automation-payment-item-01 .f-cart1 {
+    width: 43%;
+}
+#payment-method #automation-payment-item-01 .f-cart2 {
+    width: 39%;
+    margin-left: 134px;
+}
+#payment-method #automation-payment-item-01 .save-mark span {
+    font-size: 9px;
+}
+/*End payment Method*/
+
+
+}
+
+
+
+/********************************************************************************************************************************************************************************************* Start Max Width 325 Px ********************************************************************************************************************************************************************************************/
+
+
+
+
+
+@media (max-width: 325px) {
+    #header-top .last {
+        width: 215px;
+        display: inline-block;
+        margin-left: 10px;
+    }
+
+    #header-top .last-1 {
+
+        margin-left: 15px;
+    }
+
+    #header-top .header-bottom .cart-part .popover-cart-part {
+        width: 230px;
+        left: -30px;
+    }
+
+    #gift-cards .gift-item ul li {
+        width: 145px;
+    }
+
+    #category .button-part .left .all-button ul li a {
+        padding: 6px 6px;
+    }
+    #categories .cart-image ul li {
+        width: 125px;
+    }
+    #category .imgage-part ul li {
+        width: 140px;
+    }
+    #shocking .carousel ul li {
+        width: 110px;
+    }
+    #shopee-mall .right ul li {
+        width: 115px;
+    }
+    #shocking .carousel .progress {
+        width: 100px;
+    }
+    #trending-search ul li {
+        width: 120px;
+    }
+    #trending-search .image-part img {
+        width: 55px;
+        height: 55px;
+        margin-top: 10px;
+    }
+    #discover ul li {
+        width: 125px;
+    }
+
+    #discover .slider-top p {
+        font-size: 13px;
+    }
+
+    #profile .right-part .voucher .voucher-link-item ul li a {
+        font-size: 13px;
+    }
+
+
+    #profile .right-part .voucher .voucher-sub-link a {
+        margin-right: 20px;
+    }
+
+    #profile .right-part .voucher .left h6 {
+        font-size: 14px;
+    }
+
+    #profile .right-part table th {
+        font-size: 10px;
+    }
+
+    #sign-up .up {
+        font-size: 15px;
+    }
+    #sign-up .help a {
+        font-size: 14px;
+    }
+    #after-campaign .live-list ul li {
+        width: 130px;
+    }
+    #mill-category .catt ul li {
+        width: 135px;
+    }
+
+
+}
